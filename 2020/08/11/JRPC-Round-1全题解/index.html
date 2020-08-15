@@ -46,15 +46,20 @@
     var CONFIG = {"hostname":"jijialinjuruo.github.io","root":"/","scheme":"Pisces","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":true,"show_result":true,"style":null},"back2top":{"enable":true,"sidebar":true,"scrollpercent":true},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},"path":"search.xml"};
   </script>
 
-  <meta property="og:type" content="website">
-<meta property="og:title" content="jjl的hexo博客">
-<meta property="og:url" content="https://jijialinjuruo.github.io/categories/Testing/index.html">
+  <meta name="description" content="Here&#39;s something encrypted, password is required to continue reading.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="JRPC Round 1全题解">
+<meta property="og:url" content="https://jijialinjuruo.github.io/2020/08/11/JRPC-Round-1%E5%85%A8%E9%A2%98%E8%A7%A3/index.html">
 <meta property="og:site_name" content="jjl的hexo博客">
+<meta property="og:description" content="Here&#39;s something encrypted, password is required to continue reading.">
 <meta property="og:locale" content="zh_CN">
+<meta property="article:published_time" content="2020-08-11T13:21:02.000Z">
+<meta property="article:modified_time" content="2020-08-11T13:55:24.429Z">
 <meta property="article:author" content="jjl">
+<meta property="article:tag" content="题解">
 <meta name="twitter:card" content="summary">
 
-<link rel="canonical" href="https://jijialinjuruo.github.io/categories/Testing/">
+<link rel="canonical" href="https://jijialinjuruo.github.io/2020/08/11/JRPC-Round-1%E5%85%A8%E9%A2%98%E8%A7%A3/">
 
 
 <script id="page-configurations">
@@ -62,12 +67,12 @@
   CONFIG.page = {
     sidebar: "",
     isHome : false,
-    isPost : false,
+    isPost : true,
     lang   : 'zh-CN'
   };
 </script>
 
-  <title>分类: Testing | jjl的hexo博客</title>
+  <title>JRPC Round 1全题解 | jjl的hexo博客</title>
   
 
 
@@ -215,57 +220,135 @@
         <div class="content-wrap">
           
 
-          <div class="content category">
+          <div class="content post posts-expand">
             
 
+    
   
   
-  
-  <div class="post-block">
-    <div class="posts-collapse">
-      <div class="collection-title">
-        <h2 class="collection-header">Testing
-          <small>分类</small>
-        </h2>
-      </div>
+  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
+    <link itemprop="mainEntityOfPage" href="https://jijialinjuruo.github.io/2020/08/11/JRPC-Round-1%E5%85%A8%E9%A2%98%E8%A7%A3/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="image" content="/images/avatar.gif">
+      <meta itemprop="name" content="jjl">
+      <meta itemprop="description" content="">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="jjl的hexo博客">
+    </span>
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">
+          JRPC Round 1全题解
+        </h1>
+
+        <div class="post-meta">
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-calendar"></i>
+              </span>
+              <span class="post-meta-item-text">发表于</span>
+              
+
+              <time title="创建时间：2020-08-11 21:21:02 / 修改时间：21:55:24" itemprop="dateCreated datePublished" datetime="2020-08-11T21:21:02+08:00">2020-08-11</time>
+            </span>
+            <span class="post-meta-item">
+              <span class="post-meta-item-icon">
+                <i class="far fa-folder"></i>
+              </span>
+              <span class="post-meta-item-text">分类于</span>
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Luogu/" itemprop="url" rel="index"><span itemprop="name">Luogu</span></a>
+                </span>
+                  ，
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/Luogu/Problem/" itemprop="url" rel="index"><span itemprop="name">Problem</span></a>
+                </span>
+            </span>
+
+          
+            <span class="post-meta-item" title="阅读次数" id="busuanzi_container_page_pv" style="display: none;">
+              <span class="post-meta-item-icon">
+                <i class="fa fa-eye"></i>
+              </span>
+              <span class="post-meta-item-text">阅读次数：</span>
+              <span id="busuanzi_value_page_pv"></span>
+            </span><br>
+            <span class="post-meta-item" title="本文字数">
+              <span class="post-meta-item-icon">
+                <i class="far fa-file-word"></i>
+              </span>
+                <span class="post-meta-item-text">本文字数：</span>
+              <span>183</span>
+            </span>
+            <span class="post-meta-item" title="阅读时长">
+              <span class="post-meta-item-icon">
+                <i class="far fa-clock"></i>
+              </span>
+                <span class="post-meta-item-text">阅读时长 &asymp;</span>
+              <span>1 分钟</span>
+            </span>
+
+        </div>
+      </header>
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
 
       
-    <div class="collection-year">
-      <span class="collection-header">2020</span>
-    </div>
-
-  <article itemscope itemtype="http://schema.org/Article">
-    <header class="post-header">
-
-      <div class="post-meta">
-        <time itemprop="dateCreated"
-              datetime="2020-07-11T12:07:26+08:00"
-              content="2020-07-11">
-          07-11
-        </time>
-      </div>
-
-      <div class="post-title">
-          <a class="post-title-link" href="/2020/07/11/%E5%8D%8E%E4%B8%BAMatebook13%E6%B5%8B%E8%AF%84/" itemprop="url">
-            <span itemprop="name">华为Matebook13测评</span>
-          </a>
-      </div>
-
-    </header>
-  </article>
-
-    </div>
+        <div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
   </div>
-  
-  
-  
+  <script id="hbeData" type="hbeData" data-hmacdigest="751d70c5ae269f03cfc64ef226ff971e581fe66342eef2794463aec15816c886">a72cd0d1757f497c116e8055f2e02302776a95966deab70a228b2bebe387931c03bd13a63d07caee19d4613fd6b551912d9d17e62d5e1e8d85cc085be69c50540b1cb536b65c968b60d926bb0ca986ccd5834e07f397477424f1ae8dc3f6a142ec5da0f74f5f6e4faadf0c30dd927935f52f87f22013e4ac9e6b80847b74f41cb917342255fe8af99deee4e6909dbba613ab8dd4ebd0923a08b7f9ee125bcc44f9d433c81742f967e92618196c63e290fa8ea7eafb05d32bc7f9b475a06da866c8c8aab9a8f3d51d714ed64de2c08faf768d0de9b31a501304c8c464354a60d78df48e6ffcd5f58554393ea15834d006d906bec1db706d333677c4e59d6cbe75bbad651fad52ade449424ba5bed91864a9669a57200a03bc072e255530780e12f1f4c5d557de628608b94cfc7db87ab6725c40cf220cfc3418132ddd23ef3f6cf80f90ca16ef492acd81297955995c9cf9b1400adaaf25d8652e1c7409d135ebb3b5c7327f827a3f62a48d4ddd7828342df0f6ab9f3498c84af98651424cfd83cec90b3a733d077bf79759a77ffdd5fb8a4f9414eebf8547668e911958c5be8b87a517a292c52f052fbbc647f665b622980cfceb49196fdf6e17f3ae5e6eb1c696848dd32f7868280f33e10490b748b05fad8d23b83f0dfb8a8a100faa98ba08992e0900712651681a3b8f9c5a425549186d9af3c3628904a406897fa5f9559e81418b4b3e4ae2419868092be221efa215b7d53690040897098529a1b4bee36340bd2cec4477f7c24199432ad34a8f387dcf808da08aa2b748bf5ca367e118546992d09b9759101f7040741fb8be7db6aa158b7c0f88ed9d084d254d3d344a23879339640cc883937f96970cb858b4d10e9b3de7f89bf772106ff159a40d46a93f5a90669a99a4a5707a6dae7c36828fb37a4aad66f146ee5d55643a48f8e369b6588dad373abae4e9634aec356a2ad0afe5f1cec13a99790c5594d6f014dda35ce12d369eb15a5a2bfb65f4bb35dd7e753250b527a7dd5be317c08f840babe184a959e56b0dfea69f2683573367aeade8e9bf799ef648464358c551209bb318e58a1fc22e5e3a5b77fa15d55bd5654c6ac963039355f22d2ac32dc457a513d4918434874bc72ac84c80a71915f845470383a4a89873ec4a9c1ad038a56cbc1941e1b34a2a1298d86a3bb0bb0e3224fbd72b906d0f280ae0dc4bfece3c43c81e468c22a2df1c63389805995c4b9710fbfbff8799af323024121c39700425ef598f154f2c6db8def47bca599482198030078f5d11f6aceca13a3e6a67172f95b3772369dc09413e60f9b3ad853cb02f8b5ea59fc0b98aa4cac355bee4cd55d0b46b25c277a5c85f0ce25a968e17ade11abbfdac955872b19ac15a5c3d2c741a0d1627699332259a58b2445d60eed5c3115a45c5c60cbec45d112aef987284a0e4be9cfad15ea1aea1fd8630fffe4c548142b8a5bd3911bb003b6b01cf0b02e6f36edd015dd6f3afd30ddce10aef3a8fa7e5b51bc24cec143a1595948698d603f9f72a29cd3dcc666362ad992e9e203e72e58460ba47d5a898c18b9beba7ae9c734ff250e79bd81b69708233bdd08888e41d6d3f1f3bde685116080de2aa138e25785e036fefef7e7ea438a38a2b61d691e01d441b46e473ad470384a89578d83a34f75c41efefab5303b423a1f013635a9a668241dc3558eeb3fa876d14654a70708c94f0d7870a4360571eb2730361f0e2959ff6a8af01fe8c8e3b28712ac1ef5f8611a100bf6ce1c28327ee7236a84ee3afa2373b6a15eff4a03adf43be5c35a7e9300a746b4385946884845761ceac50f4c20b68734386d351a34020a087f81449c9ace749661b55a166a58b03b97521319124711a23428964984b61b4d70a73f38fd208adb51755f4eb225fa93a7174ccbf97ec8cf53860c08fa25b9990aee7c0c6f116119de4087de2a849e40d4f5fe93875e8eed40b4e84007a03fee45b08c22c2c2e342bc0b3c4779a70e1a910b7c0de4f31d64df276e75a4eed0ed52f9a771682dcf504f08d095973ad87c4c18cf1c38c252f3516aabc23561edeadb8ab8da7364099312c45a3f4d816baab4e9cd06c9534cf2396ce8cd04d42ae50a3</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">
+    </div>
 
+    
+    
+    
+
+      <footer class="post-footer">
+          <div class="post-tags">
+              <a href="/tags/%E9%A2%98%E8%A7%A3/" rel="tag"># 题解</a>
+          </div>
+
+        
+
+
+        
+    <div class="post-nav">
+      <div class="post-nav-item">
+    <a href="/2020/08/11/test/" rel="prev" title="test">
+      <i class="fa fa-chevron-left"></i> test
+    </a></div>
+      <div class="post-nav-item">
+    <a href="/2020/08/15/P3370%E9%A2%98%E8%A7%A3/" rel="next" title="P3370题解">
+      P3370题解 <i class="fa fa-chevron-right"></i>
+    </a></div>
+    </div>
+      </footer>
+    
+  </article>
+  
+  
   
 
 
 
           </div>
           
+    
+  <div class="comments">
+    <div id="lv-container" data-id="city" data-uid="MTAyMC80ODM4NC8yNDg3OA=="></div>
+  </div>
+  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -1085,6 +1168,21 @@ if(canvas.getContext){
 
   
 
+<script>
+NexT.utils.loadComments(document.querySelector('#lv-container'), () => {
+  window.livereOptions = {
+    refer: location.pathname.replace(CONFIG.root, '').replace('index.html', '')
+  };
+  (function(d, s) {
+    var j, e = d.getElementsByTagName(s)[0];
+    if (typeof LivereTower === 'function') { return; }
+    j = d.createElement(s);
+    j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+    j.async = true;
+    e.parentNode.insertBefore(j, e);
+  })(document, 'script');
+});
+</script>
 
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"model":{"jsonPath":"/live2dw/assets/tororo.model.json"},"display":{"position":"right","width":210,"height":360},"mobile":{"show":true},"log":false,"pluginJsPath":"lib/","pluginModelPath":"assets/","pluginRootPath":"live2dw/","tagMode":false});</script></body>
 </html>

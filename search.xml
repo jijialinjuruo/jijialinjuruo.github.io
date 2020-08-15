@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>JRPC Round 1全题解</title>
+    <url>/2020/08/11/JRPC-Round-1%E5%85%A8%E9%A2%98%E8%A7%A3/</url>
+    <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <div class="hbe-input-container">
+  <input type="password" id="hbePass" placeholder="" />
+    <label for="hbePass">Hey, password is required here.</label>
+    <div class="bottom-line"></div>
+  </div>
+  <script id="hbeData" type="hbeData" data-hmacdigest="751d70c5ae269f03cfc64ef226ff971e581fe66342eef2794463aec15816c886">a72cd0d1757f497c116e8055f2e02302776a95966deab70a228b2bebe387931c03bd13a63d07caee19d4613fd6b551912d9d17e62d5e1e8d85cc085be69c50540b1cb536b65c968b60d926bb0ca986ccd5834e07f397477424f1ae8dc3f6a142ec5da0f74f5f6e4faadf0c30dd927935f52f87f22013e4ac9e6b80847b74f41cb917342255fe8af99deee4e6909dbba613ab8dd4ebd0923a08b7f9ee125bcc44f9d433c81742f967e92618196c63e290fa8ea7eafb05d32bc7f9b475a06da866c8c8aab9a8f3d51d714ed64de2c08faf768d0de9b31a501304c8c464354a60d78df48e6ffcd5f58554393ea15834d006d906bec1db706d333677c4e59d6cbe75bbad651fad52ade449424ba5bed91864a9669a57200a03bc072e255530780e12f1f4c5d557de628608b94cfc7db87ab6725c40cf220cfc3418132ddd23ef3f6cf80f90ca16ef492acd81297955995c9cf9b1400adaaf25d8652e1c7409d135ebb3b5c7327f827a3f62a48d4ddd7828342df0f6ab9f3498c84af98651424cfd83cec90b3a733d077bf79759a77ffdd5fb8a4f9414eebf8547668e911958c5be8b87a517a292c52f052fbbc647f665b622980cfceb49196fdf6e17f3ae5e6eb1c696848dd32f7868280f33e10490b748b05fad8d23b83f0dfb8a8a100faa98ba08992e0900712651681a3b8f9c5a425549186d9af3c3628904a406897fa5f9559e81418b4b3e4ae2419868092be221efa215b7d53690040897098529a1b4bee36340bd2cec4477f7c24199432ad34a8f387dcf808da08aa2b748bf5ca367e118546992d09b9759101f7040741fb8be7db6aa158b7c0f88ed9d084d254d3d344a23879339640cc883937f96970cb858b4d10e9b3de7f89bf772106ff159a40d46a93f5a90669a99a4a5707a6dae7c36828fb37a4aad66f146ee5d55643a48f8e369b6588dad373abae4e9634aec356a2ad0afe5f1cec13a99790c5594d6f014dda35ce12d369eb15a5a2bfb65f4bb35dd7e753250b527a7dd5be317c08f840babe184a959e56b0dfea69f2683573367aeade8e9bf799ef648464358c551209bb318e58a1fc22e5e3a5b77fa15d55bd5654c6ac963039355f22d2ac32dc457a513d4918434874bc72ac84c80a71915f845470383a4a89873ec4a9c1ad038a56cbc1941e1b34a2a1298d86a3bb0bb0e3224fbd72b906d0f280ae0dc4bfece3c43c81e468c22a2df1c63389805995c4b9710fbfbff8799af323024121c39700425ef598f154f2c6db8def47bca599482198030078f5d11f6aceca13a3e6a67172f95b3772369dc09413e60f9b3ad853cb02f8b5ea59fc0b98aa4cac355bee4cd55d0b46b25c277a5c85f0ce25a968e17ade11abbfdac955872b19ac15a5c3d2c741a0d1627699332259a58b2445d60eed5c3115a45c5c60cbec45d112aef987284a0e4be9cfad15ea1aea1fd8630fffe4c548142b8a5bd3911bb003b6b01cf0b02e6f36edd015dd6f3afd30ddce10aef3a8fa7e5b51bc24cec143a1595948698d603f9f72a29cd3dcc666362ad992e9e203e72e58460ba47d5a898c18b9beba7ae9c734ff250e79bd81b69708233bdd08888e41d6d3f1f3bde685116080de2aa138e25785e036fefef7e7ea438a38a2b61d691e01d441b46e473ad470384a89578d83a34f75c41efefab5303b423a1f013635a9a668241dc3558eeb3fa876d14654a70708c94f0d7870a4360571eb2730361f0e2959ff6a8af01fe8c8e3b28712ac1ef5f8611a100bf6ce1c28327ee7236a84ee3afa2373b6a15eff4a03adf43be5c35a7e9300a746b4385946884845761ceac50f4c20b68734386d351a34020a087f81449c9ace749661b55a166a58b03b97521319124711a23428964984b61b4d70a73f38fd208adb51755f4eb225fa93a7174ccbf97ec8cf53860c08fa25b9990aee7c0c6f116119de4087de2a849e40d4f5fe93875e8eed40b4e84007a03fee45b08c22c2c2e342bc0b3c4779a70e1a910b7c0de4f31d64df276e75a4eed0ed52f9a771682dcf504f08d095973ad87c4c18cf1c38c252f3516aabc23561edeadb8ab8da7364099312c45a3f4d816baab4e9cd06c9534cf2396ce8cd04d42ae50a3</script>
+</div>
+<script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+      <categories>
+        <category>Luogu</category>
+        <category>Problem</category>
+      </categories>
+      <tags>
+        <tag>题解</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/2020/08/11/test/</url>
     <content><![CDATA[<div id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
@@ -12,6 +32,21 @@
   <script id="hbeData" type="hbeData" data-hmacdigest="c85b536fac0307d025e7ea68e8fc8fd4e908678997d21601fc2996abd8df5385">179a1d740ef6ebbafde353b50e6f40637699a6df271dfc7c36e7be666d0bd237f0e3bfccee9fcde5abd1bc23f9715d9cdc4c0ccb40b6448e27696408af217d22819aa4abaa4ab2af846b490c96fa34c16e6a040888e8959116948d0aa51a8323d344903e9726955240d4b2340d8c8071a71a1431bd1841b2de65211d6042d207a923ab15a925515fdd3a3563fca844de1cc289c573ac35a5a609f9bf71e15465f5781363f605c9c413010360a7a2a4537318b00a184ab4fade35099b4f94831cb3b726a3ad5b10c5c1bbad3f9fa0a708cbd276d01b2e2d13a82be3f2272186c3</script>
 </div>
 <script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
+  </entry>
+  <entry>
+    <title>P3370题解</title>
+    <url>/2020/08/15/P3370%E9%A2%98%E8%A7%A3/</url>
+    <content><![CDATA[<p>&#x6211;&#x5BFB;&#x601D;&#x7740;map&#x4E0D;&#x5C31;&#x80FD;&#x8FC7;&#x4E86;&#x5417;</p>
+<p>&#x9898;&#x89E3;&#x5199;&#x90A3;&#x4E48;&#x9EBB;&#x70E6;&#x662F;&#x4E3A;&#x4EC0;&#x4E48;&#x5462;&#x3002;&#x3002;&#x3002;</p>
+<p>&#x76F4;&#x63A5;&#x4E0A;&#x4EE3;&#x7801;</p>
+<figure class="highlight cpp"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;bits/stdc++.h&gt;//&#x4E07;&#x80FD;&#x5934;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>{</span><br><span class="line">	<span class="keyword">int</span> n,ans=<span class="number">0</span>;</span><br><span class="line">	<span class="built_in">cin</span>&gt;&gt;n;</span><br><span class="line">	<span class="built_in">string</span> s;</span><br><span class="line">	<span class="built_in">map</span>&lt;<span class="built_in">string</span>,<span class="keyword">bool</span>&gt;hash;<span class="comment">//C++&#x7279;&#x6709;STL&#x5BB9;&#x5668;map&#xFF0C;&#x53EF;&#x7528;&#x4E8E;&#x6876;&#x6392;&#x5E8F;</span></span><br><span class="line">   <span class="comment">//map&#x4F7F;&#x7528;&#x683C;&#x5F0F;&#xFF1A;map&lt;&#x4E0B;&#x6807;&#x7C7B;&#x578B;&#xFF0C;&#x6570;&#x636E;&#x7C7B;&#x578B;&gt;&#x5BB9;&#x5668;&#x540D;&#x79F0;</span></span><br><span class="line">	<span class="keyword">for</span>(<span class="keyword">int</span> i=<span class="number">0</span>;i&lt;n;i++)</span><br><span class="line">	{</span><br><span class="line">		<span class="built_in">cin</span>&gt;&gt;s;</span><br><span class="line">		<span class="keyword">if</span>(!hash[s]) ans++,hash[s]=<span class="literal">true</span>;<span class="comment">//&#x6838;&#x5FC3;&#xFF0C;&#x5982;&#x679C;&#x6CA1;&#x6709;&#x6807;&#x8BB0;&#x8FC7;&#x5C31;&#x6807;&#x8BB0;&#xFF0C;&#x7B54;&#x6848;+1</span></span><br><span class="line">	}</span><br><span class="line">	<span class="built_in">cout</span>&lt;&lt;ans;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">}</span><br></pre></td></tr></table></figure>]]></content>
+      <categories>
+        <category>Luogu</category>
+        <category>Solutions</category>
+      </categories>
+      <tags>
+        <tag>题解</tag>
+      </tags>
   </entry>
   <entry>
     <title>与jjl之间沟通的规则及处刑榜</title>
@@ -85,6 +120,53 @@
       </tags>
   </entry>
   <entry>
+    <title>关于2020年7月31日无脑爱谷用户@唯一不重名的ID 在用户举报专区的言论（洛谷《陶片放逐》报第五期）</title>
+    <url>/2020/08/01/%E5%85%B3%E4%BA%8E2020%E5%B9%B47%E6%9C%8831%E6%97%A5%E6%97%A0%E8%84%91%E7%88%B1%E8%B0%B7%E7%94%A8%E6%88%B7-%E5%94%AF%E4%B8%80%E4%B8%8D%E9%87%8D%E5%90%8D%E7%9A%84ID-%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA%E7%9A%84%E8%A8%80%E8%AE%BA%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E4%BA%94%E6%9C%9F%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;"><a href="#&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;" class="headerlink" title="&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;"></a>&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;</h1><p>&#x6D1B;&#x8C37;&#x8FD8;&#x662F;&#x6709;xxs&#x554A;&#xFF08;&#x60B2;&#xFF09;<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x4E3E;&#x62A5;&#x7528;&#x6237; @hellomath &#x53D1;&#x8868;&#x53CD;&#x8C37;&#x8A00;&#x8BBA;&#xFF1A;&#x5982;&#x56FE;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/u5ubm9tw.png" alt><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/tg7pz1ds.png" alt><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hellomath: &#x8FD8;&#x771F;&#x6765;&#x5783;&#x573E;&#x573A;&#x4E86;</span><br><span class="line">&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID: &#x8FD9;&#x53C8;&#x662F;&#x53CD;&#x8C37;&#x8A00;&#x8BBA;&#xFF0C;&#x628A;&#x7528;&#x6237;&#x4E3E;&#x62A5;&#x4E13;&#x533A;&#x6BD4;&#x55BB;&#x4E3A;&#x5783;&#x573E;&#x573A;</span><br></pre></td></tr></table></figure><br>&#x4EE5;&#x4E0B;&#x5747;&#x4E3A;&#x90E8;&#x5206;&#x7528;&#x6237;&#x5BF9;&#x8FD9;&#x4F4D;xxs&#x7684;&#x53CD;&#x9A73;&#xFF1A;</p>
+<p>@M652 &#x63D0;&#x4F9B;&#x4E86;&#x6709;&#x529B;&#x7684;&#x8BC1;&#x636E;&#x6765;&#x53CD;&#x9A73;&#x8FD9;&#x4F4D;xxs&#xFF1A;<br><img src="https://cdn.luogu.com.cn/upload/image_hosting/nkopbhqx.png" alt><br>@tarjin&#xFF1A;</p>
+<p>@&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID</p>
+<p>@hellomath &#x662F;&#x795E;&#x4ED9;&#x662F;&#x4F60;&#x80FD;&#x4E3E;&#x62A5;&#x7684;&#xFF1F;</p>
+<p>&#x800C;&#x4E14;&#x6D1B;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x73B0;&#x5728;&#x6B63;&#x5728;&#x66F4;&#x65B0;&#x9636;&#x6BB5;&#x51FA;&#x73B0;&#x6CE2;&#x52A8;&#x5C5E;&#x4E8E;&#x6B63;&#x5E38;&#x73B0;&#x8C61;&#xFF0C;kkk&#x53D1;&#x8FC7;&#x4E00;&#x4E2A;&#x53CD;&#x9988;&#x8D34;&#x3002;</p>
+<p>LOJ&#x548C;&#x4F60;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x8C01;&#x5FEB;&#x8FD9;&#x4E2A;&#x4E0D;&#x662F;&#x5DF2;&#x7ECF;&#x7EDF;&#x8BA1;&#x8FC7;&#x4E86;&#x5417;&#xFF1F;</p>
+<p><a href="https://loj.ac/article/2685" target="_blank" rel="noopener">https://loj.ac/article/2685</a></p>
+<p>&#x6D1B;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x901F;&#x5EA6;&#x81EA;&#x5DF1;&#x6D4B;&#x8BD5;&#x3002;</p>
+<p>@Marser:</p>
+<p>@&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID &#x6211;&#x5F88;&#x597D;&#x5947;&#x8FD9;&#x662F;&#x4EC0;&#x4E48;&#x777F;&#x667A;&#x8A00;&#x8BBA;&#xFF0C;&#x6D1B;&#x8C37;&#x7684;&#x8BC4;&#x6D4B;&#x673A;&#x901F;&#x5EA6;&#x6709;&#x5F85;&#x6539;&#x8FDB;&#x8FD8;&#x4E0D;&#x80FD;&#x6279;&#x8BC4;&#x4E86;&#xFF1F;</p>
+<p>&#x51B5;&#x4E14;&#xFF0C;&#x4E3E;&#x62A5;&#x4E13;&#x533A;&#x5C31;&#x662F;&#x56E0;&#x4E3A;&#x5145;&#x65A5;&#x7740;&#x60A8;&#x8FD9;&#x79CD;&#x5783;&#x573E;&#x8A00;&#x8BBA;&#x624D;&#x6210;&#x4E3A;&#x5783;&#x573E;&#x573A;&#x7684;&#x3002;</p>
+<p>&#x64B0;&#x6587;&#x8BB0;&#x8005;:</p>
+<p>xxs&#x5C31;&#x662F;xxs&#xFF0C;&#x518D;&#x600E;&#x4E48;&#x548C;&#x4ED6;&#x89E3;&#x91CA;&#x4E5F;&#x6CA1;&#x6709;p&#x7528;</p>
+<p>&#x73B0;&#x5728;&#x8981;&#x505A;&#x7684;&#x5C31;&#x662F;&#x53BB;&#x5C4F;&#x853D;&#x4ED6;</p>
+<p>&#x6216;&#x8005;&#x628A;&#x4ED6;&#x5C31;&#x5F53;&#x6210;&#x7334;&#x5B50;&#x56DB;&#x4EE3;&#x5427;</p>
+]]></content>
+      <categories>
+        <category>Reports</category>
+        <category>Luogu</category>
+      </categories>
+      <tags>
+        <tag>《陶片放逐》报道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于2020年8月2日用户@xiaozengXW 和其他用户在用户举报专区对线（洛谷《陶片放逐》报第七期）</title>
+    <url>/2020/08/02/%E5%85%B3%E4%BA%8E2020%E5%B9%B48%E6%9C%882%E6%97%A5%E7%94%A8%E6%88%B7-xiaozengXW-%E5%92%8C%E5%85%B6%E4%BB%96%E7%94%A8%E6%88%B7%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA%E5%AF%B9%E7%BA%BF%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E4%B8%83%E6%9C%9F%EF%BC%89/</url>
+    <content><![CDATA[<h1 id="&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;"><a href="#&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;" class="headerlink" title="&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;"></a>&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;</h1><a id="more"></a>
+<h1 id="1-&#x5BF9;&#x7EBF;"><a href="#1-&#x5BF9;&#x7EBF;" class="headerlink" title="1.&#x5BF9;&#x7EBF;"></a>1.&#x5BF9;&#x7EBF;</h1><p>&#x4EE5;&#x4E0B;&#x5185;&#x5BB9;&#x7531;@Bjarne&#xB7;Stroustrup(1)&#x548C;@xiaozengXW(2)&#x503E;&#x60C5;&#x5448;&#x73B0;<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1:</span><br><span class="line">&#x4E3E;&#x62A5;@xiaozengXW ,&#x539F;&#x56E0;:&#x5927;&#x91CF;&#x9A82;&#x4EBA;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;:</span><br><span class="line"></span><br><span class="line">2020-08-02 21:18&#x56DE;&#x590D;&#x4E3E;&#x62A5; @Bjarne&#xB7;Stroustrup &#x597D;&#x597D;&#x597D;&#x4F60;&#x725B;&#x903C;&#x4F60;&#x6700;&#x7279;&#x4E48;&#x5F3A;&#x4E86;</span><br><span class="line"></span><br><span class="line">&#x5C41;&#x90FD;&#x4E0D;&#x5E72;&#x6765; \text{&#x53CD;&#x4F5C;&#x5F0A;}&#x53CD;&#x4F5C;&#x5F0A; &#x7EC4;&#x7EC7;&#x95F2;&#x901B;&#xFF0C;&#x6211;&#x5F88;&#x6000;&#x7591;&#x4F60;&#x7684;&#x52A8;&#x673A;&#x3002;</span><br><span class="line"></span><br><span class="line">@xiaozengXW 2020-08-02 21:19&#x56DE;&#x590D;&#x4E3E;&#x62A5; @Bjarne&#xB7;Stroustrup &#x6CA1;&#x65F6;&#x95F4;&#x53C2;&#x4E0E;&#x53CD;&#x4F5C;&#x5F0A;&#x5C31;&#x4E0D;&#x8981;&#x6765;&#x53CD;&#x4F5C;&#x5F0A;&#x7EC4;&#x7EC7;&#xFF0C;&#x6D1B;&#x8C37;&#x4E24;&#x4E07;&#x591A;&#x56E2;&#x961F;&#x4F60;&#x53BB;&#x54EA;&#x4E2A;&#x4E0D;&#x597D;&#x6765;&#x53CD;&#x4F5C;&#x5F0A;&#x7EC4;&#x7EC7;&#x95F2;&#x901B;&#x3002;</span><br><span class="line"></span><br><span class="line">@xiaozengXW 2020-08-02 21:19&#x56DE;&#x590D;&#x4E3E;&#x62A5; &#x6211;&#x4E0D;&#x662F;&#x6210;&#x5FC3;&#x548C;&#x4F60;&#x6495;&#x903C;&#xFF0C;&#x6211;&#x5C31;&#x662F;&#x89C9;&#x5F97;&#x4F60;&#x95F2;&#x7684;&#x86CB;&#x75BC;&#x3002;</span><br><span class="line"></span><br><span class="line">2:</span><br><span class="line">@Bjarne&#xB7;Stroustrup</span><br><span class="line"></span><br><span class="line">&#x65E0;&#x56FE;&#x4E0D;&#x771F;&#x76F8;</span><br><span class="line">&#x56E2;&#x961F;&#x8BA8;&#x8BBA;&#x533A;&#x4F60;&#x771F;&#x4EE5;&#x4E3A;&#x7BA1;&#x7406;&#x7BA1;&#x3002;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/696mw1rc.png" alt="1"><br><figure class="highlight plain"><figcaption><span>&#x56E2;&#x961F;&#x8BA8;&#x8BBA;&#x533A;&#x60A8;&#x5C31;&#x53EF;&#x4EE5;&#x4E3A;&#x6240;&#x6B32;&#x4E3A;&#x5417;?```</span></figcaption><table><tr><td class="code"><pre><span class="line">![2](https://cdn.luogu.com.cn/upload/image_hosting/8gmp7qac.png)</span><br></pre></td></tr></table></figure><br>2:@Bjarne&#xB7;Stroustrup &#x597D;&#x597D;&#x597D;&#x4F60;&#x725B;&#x903C;&#x4F60;&#x4E3E;&#x62A5;&#x6700;&#x597D;&#x660E;&#x5929;&#x63A5;&#x7BA1;&#x6D1B;&#x8C37;&#x5C01;&#x6211;&#x53F7;<br>2:@Bjarne&#xB7;Stroustrup /qiang/qiang/qiang/qiang/qiang</p>
+<p>/ts&#x6700;&#x597D;&#x628A;&#x6211;IPban&#x4E86;/cy<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"># 2.&#x4E3E;&#x62A5;</span><br><span class="line"></span><br><span class="line">&#x63A5;&#x4E0B;&#x6765;&#x7531;&#x8C37;&#x6C11;&#x4EEC;&#x5F00;&#x59CB;&#x4E3E;&#x62A5;@woshidashabi66666</span><br></pre></td></tr></table></figure><br>mcyl35:<br>@woshidashabi66666</p>
+<p>&#x7528;&#x6237;&#x540D;&#x4E0D;&#x548C;&#x8C10;</p>
+<p>&#x8FB1;&#x9A82;&#x7BA1;&#x7406;&#x5458;&#x548C;&#x7528;&#x6237;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![3](https://cdn.luogu.com.cn/upload/image_hosting/bzsj1jq0.png)</span><br></pre></td></tr></table></figure><br>@chen_zhe<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">Firestar:</span><br><span class="line">&#x6211;&#x4E3E;&#x62A5;@woshidashabi66666</span><br><span class="line"></span><br><span class="line">1&#x3001;&#x4ED6;&#x9A82;&#x7AD9;&#x957F;</span><br><span class="line"></span><br><span class="line">2&#x3001;&#x7528;&#x6237;&#x540D;&#x654F;&#x611F;</span><br><span class="line"></span><br><span class="line">3&#x3001;&#x90A3;&#x5565;&#x8FD9;&#x5BB6;&#x4F19;&#x9A82;&#x6211;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;&#xFF1A;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/bzsj1jq0.png" alt="4"><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x4E3E;&#x62A5;&#x7528;&#x6237;@woshidashabi66666</span><br><span class="line"></span><br><span class="line">&#x539F;&#x56E0;&#xFF1A;&#x8FB1;&#x9A82;&#x7BA1;&#x7406;&#x3001;&#x7528;&#x6237;&#x540D;&#x4E0D;&#x548C;&#x8C10;&#x3001;&#x8FB1;&#x9A82;&#x5176;&#x4ED6;&#x7528;&#x6237;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;&#xFF1A;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/9j0p9qwg.png" alt="5"></p>
+<p>&#x4E8E;&#x662F;&#x2026;&#x5F15;&#x8D77;&#x4E86;&#x4E00;&#x5927;&#x6CE2;&#x89C2;&#x7334;&#x4EBA;&#x7684;&#x6CE8;&#x610F;&#xFF1A;</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">YCE3216037:@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#xFF01;</span><br><span class="line">Little_Hamster:@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#xFF01;</span><br><span class="line">LFC_thomaszjl:@woshidashabi66666 &#x51FA;&#x6765;&#x8D70;&#x8D70;</span><br></pre></td></tr></table></figure>
+<p>(&#x8BB0;&#x8005;&#xFF1A;@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#x4E24;&#x6B65;)</p>
+]]></content>
+      <categories>
+        <category>Reports</category>
+        <category>Luogu</category>
+      </categories>
+      <tags>
+        <tag>《陶片放逐》报道</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>关于2020年7月30日洛谷陶片放逐@AKWC在用户举报专区的言行（洛谷《陶片放逐》报第二期）</title>
     <url>/2020/07/30/%E5%85%B3%E4%BA%8E2020%E5%B9%B47%E6%9C%8830%E6%97%A5%E6%B4%9B%E8%B0%B7%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90-AKWC%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA%E7%9A%84%E8%A8%80%E8%A1%8C%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E4%BA%8C%E6%9C%9F%EF%BC%89/</url>
     <content><![CDATA[<p>&#x6D1B;&#x8C37;&#x300A;&#x9676;&#x7247;&#x653E;&#x9010;&#x300B;&#x62A5;&#x7B2C;&#x4E8C;&#x671F;</p>
@@ -144,78 +226,9 @@
       </tags>
   </entry>
   <entry>
-    <title>关于2020年7月31日无脑爱谷用户@唯一不重名的ID 在用户举报专区的言论（洛谷《陶片放逐》报第五期）</title>
-    <url>/2020/08/01/%E5%85%B3%E4%BA%8E2020%E5%B9%B47%E6%9C%8831%E6%97%A5%E6%97%A0%E8%84%91%E7%88%B1%E8%B0%B7%E7%94%A8%E6%88%B7-%E5%94%AF%E4%B8%80%E4%B8%8D%E9%87%8D%E5%90%8D%E7%9A%84ID-%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA%E7%9A%84%E8%A8%80%E8%AE%BA%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E4%BA%94%E6%9C%9F%EF%BC%89/</url>
-    <content><![CDATA[<h1 id="&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;"><a href="#&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;" class="headerlink" title="&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;"></a>&#x91CD;&#x8981;&#x63D0;&#x9192;&#xFF1A;&#x6240;&#x6709;&#x6D88;&#x606F;&#x5747;&#x7531;&#x540C;&#x4E00;&#x7528;&#x6237;&#x53D1;&#x51FA;</h1><p>&#x6D1B;&#x8C37;&#x8FD8;&#x662F;&#x6709;xxs&#x554A;&#xFF08;&#x60B2;&#xFF09;<br><a id="more"></a><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x4E3E;&#x62A5;&#x7528;&#x6237; @hellomath &#x53D1;&#x8868;&#x53CD;&#x8C37;&#x8A00;&#x8BBA;&#xFF1A;&#x5982;&#x56FE;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/u5ubm9tw.png" alt><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/tg7pz1ds.png" alt><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">hellomath: &#x8FD8;&#x771F;&#x6765;&#x5783;&#x573E;&#x573A;&#x4E86;</span><br><span class="line">&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID: &#x8FD9;&#x53C8;&#x662F;&#x53CD;&#x8C37;&#x8A00;&#x8BBA;&#xFF0C;&#x628A;&#x7528;&#x6237;&#x4E3E;&#x62A5;&#x4E13;&#x533A;&#x6BD4;&#x55BB;&#x4E3A;&#x5783;&#x573E;&#x573A;</span><br></pre></td></tr></table></figure><br>&#x4EE5;&#x4E0B;&#x5747;&#x4E3A;&#x90E8;&#x5206;&#x7528;&#x6237;&#x5BF9;&#x8FD9;&#x4F4D;xxs&#x7684;&#x53CD;&#x9A73;&#xFF1A;</p>
-<p>@M652 &#x63D0;&#x4F9B;&#x4E86;&#x6709;&#x529B;&#x7684;&#x8BC1;&#x636E;&#x6765;&#x53CD;&#x9A73;&#x8FD9;&#x4F4D;xxs&#xFF1A;<br><img src="https://cdn.luogu.com.cn/upload/image_hosting/nkopbhqx.png" alt><br>@tarjin&#xFF1A;</p>
-<p>@&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID</p>
-<p>@hellomath &#x662F;&#x795E;&#x4ED9;&#x662F;&#x4F60;&#x80FD;&#x4E3E;&#x62A5;&#x7684;&#xFF1F;</p>
-<p>&#x800C;&#x4E14;&#x6D1B;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x73B0;&#x5728;&#x6B63;&#x5728;&#x66F4;&#x65B0;&#x9636;&#x6BB5;&#x51FA;&#x73B0;&#x6CE2;&#x52A8;&#x5C5E;&#x4E8E;&#x6B63;&#x5E38;&#x73B0;&#x8C61;&#xFF0C;kkk&#x53D1;&#x8FC7;&#x4E00;&#x4E2A;&#x53CD;&#x9988;&#x8D34;&#x3002;</p>
-<p>LOJ&#x548C;&#x4F60;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x8C01;&#x5FEB;&#x8FD9;&#x4E2A;&#x4E0D;&#x662F;&#x5DF2;&#x7ECF;&#x7EDF;&#x8BA1;&#x8FC7;&#x4E86;&#x5417;&#xFF1F;</p>
-<p><a href="https://loj.ac/article/2685" target="_blank" rel="noopener">https://loj.ac/article/2685</a></p>
-<p>&#x6D1B;&#x8C37;&#x6D4B;&#x8BC4;&#x673A;&#x901F;&#x5EA6;&#x81EA;&#x5DF1;&#x6D4B;&#x8BD5;&#x3002;</p>
-<p>@Marser:</p>
-<p>@&#x552F;&#x4E00;&#x4E0D;&#x91CD;&#x540D;&#x7684;ID &#x6211;&#x5F88;&#x597D;&#x5947;&#x8FD9;&#x662F;&#x4EC0;&#x4E48;&#x777F;&#x667A;&#x8A00;&#x8BBA;&#xFF0C;&#x6D1B;&#x8C37;&#x7684;&#x8BC4;&#x6D4B;&#x673A;&#x901F;&#x5EA6;&#x6709;&#x5F85;&#x6539;&#x8FDB;&#x8FD8;&#x4E0D;&#x80FD;&#x6279;&#x8BC4;&#x4E86;&#xFF1F;</p>
-<p>&#x51B5;&#x4E14;&#xFF0C;&#x4E3E;&#x62A5;&#x4E13;&#x533A;&#x5C31;&#x662F;&#x56E0;&#x4E3A;&#x5145;&#x65A5;&#x7740;&#x60A8;&#x8FD9;&#x79CD;&#x5783;&#x573E;&#x8A00;&#x8BBA;&#x624D;&#x6210;&#x4E3A;&#x5783;&#x573E;&#x573A;&#x7684;&#x3002;</p>
-<p>&#x64B0;&#x6587;&#x8BB0;&#x8005;:</p>
-<p>xxs&#x5C31;&#x662F;xxs&#xFF0C;&#x518D;&#x600E;&#x4E48;&#x548C;&#x4ED6;&#x89E3;&#x91CA;&#x4E5F;&#x6CA1;&#x6709;p&#x7528;</p>
-<p>&#x73B0;&#x5728;&#x8981;&#x505A;&#x7684;&#x5C31;&#x662F;&#x53BB;&#x5C4F;&#x853D;&#x4ED6;</p>
-<p>&#x6216;&#x8005;&#x628A;&#x4ED6;&#x5C31;&#x5F53;&#x6210;&#x7334;&#x5B50;&#x56DB;&#x4EE3;&#x5427;</p>
-]]></content>
-      <categories>
-        <category>Reports</category>
-        <category>Luogu</category>
-      </categories>
-      <tags>
-        <tag>《陶片放逐》报道</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于2020年8月2日陶片放逐用户@Imcute 在洛谷日报下发布的低俗小说（洛谷《陶片放逐》报第六期）</title>
-    <url>/2020/08/02/%E5%85%B3%E4%BA%8E2020%E5%B9%B48%E6%9C%882%E6%97%A5%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E7%94%A8%E6%88%B7-Imcute-%E5%9C%A8%E6%B4%9B%E8%B0%B7%E6%97%A5%E6%8A%A5%E4%B8%8B%E5%8F%91%E5%B8%83%E7%9A%84%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B4%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E5%85%AD%E6%9C%9F%EF%BC%89/</url>
-    <content><![CDATA[<p>&#x8FD9;&#x6B21;&#x62A5;&#x9053;&#x5148;&#x7ED9;&#x5927;&#x5BB6;&#x5BA3;&#x5E03;&#x4E00;&#x4E2A;&#x574F;&#x6D88;&#x606F;&#xFF1A;</p>
-<h1 id="&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;"><a href="#&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;" class="headerlink" title="&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;"></a>&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;</h1><p>&#x518D;&#x5BA3;&#x5E03;&#x4E00;&#x4E2A;&#x597D;&#x6D88;&#x606F;&#xFF1A;</p>
-<h1 id="&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;"><a href="#&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;" class="headerlink" title="&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;"></a>&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;</h1><a id="more"></a>
-<p>&#x4ECA;&#x5929;&#x53EA;&#x80FD;&#x7ED9;&#x5927;&#x5BB6;&#x653E;&#x622A;&#x56FE;&#x4E86;&#xFF1A;&#xFF08;</p>
-<p><img src="https://cdn.luogu.com.cn/upload/image_hosting/0pljzgyx.png" alt></p>
-<p>&#x636E;&#x53EF;&#x9760;&#x6D88;&#x606F;&#xFF0C;&#x6B64;&#x4EBA;&#x590D;&#x5236;&#x7684;&#x4F4E;&#x4FD7;&#x5C0F;&#x8BF4;&#x6765;&#x6E90;&#x4E8E;&#xFF1A;</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x66F4;&#x65B0;&#x6700;&#x5FEB;&#x7684;(&#x65B0;&#x516B;&#x58F9;&#x4E2D;&#x6587;&#x7F51; (&#x43C;.X&#x2467;&#x2460;zW.c&#x14D;)m</span><br></pre></td></tr></table></figure>
-<p>&#x554A;&#x8FD9;</p>
-<p>&#x8FD8;&#x7528;&#x706B;&#x661F;&#x6587;</p>
-<p>&#x4E00;&#x770B;&#x5C31;&#x4E0D;&#x662F;&#x4EC0;&#x4E48;&#x6B63;&#x89C4;&#x7F51;&#x7AD9;</p>
-<p>&#x8BB0;&#x8005;&#x5192;&#x6B7B;&#x53BB;&#x4E0A;&#x4E86;&#x8FD9;&#x4E2A;&#x7F51;</p>
-<p>&#x603B;&#x7ED3;&#x5982;&#x4E0B;&#xFF1A;1.&#x5C0F;&#x8BF4;&#x5185;&#x5BB9;&#x4F4E;&#x4FD7; 2.&#x6709;&#x5F15;&#x8BF1;&#x4E0B;&#x8F7D;</p>
-<p>&#x5404;&#x4F4D;&#x8FD8;&#x662F;&#x522B;&#x53BB;&#x4E86;&#xFF08;</p>
-<p><strong>&#x8A00;&#x5F52;&#x6B63;&#x4F20;&#xFF0C;</strong><del>&#x521A;&#x624D;&#x8BB2;&#x5230;&#x54EA;&#x4E86;&#xFF1F;</del></p>
-<p>&#x8FD9;&#x6B21;&#x4E8B;&#x4EF6;&#x5F15;&#x53D1;&#x4E86;&#x5927;&#x91CF;&#x56E2;&#x961F;&#x89C2;&#x5149;&#x56E2;&#x53BB;&#x53C2;&#x89C2;<del>&#x4E5F;&#x5305;&#x62EC;&#x8BB0;&#x8005;&#x7684;<img src="https://www.luogu.com.cn/team/15848" alt="&#x89C2;&#x5149;&#x56E2;1"><img src="https://www.luogu.com.cn/team/14341" alt="&#x89C2;&#x5149;&#x56E2;2"></del></p>
-]]></content>
-      <categories>
-        <category>Reports</category>
-        <category>Luogu</category>
-      </categories>
-      <tags>
-        <tag>《陶片放逐》报道</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>关于2020年8月2日用户@xiaozengXW 和其他用户在用户举报专区对线（洛谷《陶片放逐》报第七期）</title>
-    <url>/2020/08/02/%E5%85%B3%E4%BA%8E2020%E5%B9%B48%E6%9C%882%E6%97%A5%E7%94%A8%E6%88%B7-xiaozengXW-%E5%92%8C%E5%85%B6%E4%BB%96%E7%94%A8%E6%88%B7%E5%9C%A8%E7%94%A8%E6%88%B7%E4%B8%BE%E6%8A%A5%E4%B8%93%E5%8C%BA%E5%AF%B9%E7%BA%BF%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E4%B8%83%E6%9C%9F%EF%BC%89/</url>
-    <content><![CDATA[<h1 id="&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;"><a href="#&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;" class="headerlink" title="&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;"></a>&#x5982;&#x5404;&#x4F4D;&#x6240;&#x613F;&#xFF0C;&#x4ECA;&#x5929;&#x53CC;&#x66F4;&#xFF01;</h1><a id="more"></a>
-<h1 id="1-&#x5BF9;&#x7EBF;"><a href="#1-&#x5BF9;&#x7EBF;" class="headerlink" title="1.&#x5BF9;&#x7EBF;"></a>1.&#x5BF9;&#x7EBF;</h1><p>&#x4EE5;&#x4E0B;&#x5185;&#x5BB9;&#x7531;@Bjarne&#xB7;Stroustrup(1)&#x548C;@xiaozengXW(2)&#x503E;&#x60C5;&#x5448;&#x73B0;<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">1:</span><br><span class="line">&#x4E3E;&#x62A5;@xiaozengXW ,&#x539F;&#x56E0;:&#x5927;&#x91CF;&#x9A82;&#x4EBA;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;:</span><br><span class="line"></span><br><span class="line">2020-08-02 21:18&#x56DE;&#x590D;&#x4E3E;&#x62A5; @Bjarne&#xB7;Stroustrup &#x597D;&#x597D;&#x597D;&#x4F60;&#x725B;&#x903C;&#x4F60;&#x6700;&#x7279;&#x4E48;&#x5F3A;&#x4E86;</span><br><span class="line"></span><br><span class="line">&#x5C41;&#x90FD;&#x4E0D;&#x5E72;&#x6765; \text{&#x53CD;&#x4F5C;&#x5F0A;}&#x53CD;&#x4F5C;&#x5F0A; &#x7EC4;&#x7EC7;&#x95F2;&#x901B;&#xFF0C;&#x6211;&#x5F88;&#x6000;&#x7591;&#x4F60;&#x7684;&#x52A8;&#x673A;&#x3002;</span><br><span class="line"></span><br><span class="line">@xiaozengXW 2020-08-02 21:19&#x56DE;&#x590D;&#x4E3E;&#x62A5; @Bjarne&#xB7;Stroustrup &#x6CA1;&#x65F6;&#x95F4;&#x53C2;&#x4E0E;&#x53CD;&#x4F5C;&#x5F0A;&#x5C31;&#x4E0D;&#x8981;&#x6765;&#x53CD;&#x4F5C;&#x5F0A;&#x7EC4;&#x7EC7;&#xFF0C;&#x6D1B;&#x8C37;&#x4E24;&#x4E07;&#x591A;&#x56E2;&#x961F;&#x4F60;&#x53BB;&#x54EA;&#x4E2A;&#x4E0D;&#x597D;&#x6765;&#x53CD;&#x4F5C;&#x5F0A;&#x7EC4;&#x7EC7;&#x95F2;&#x901B;&#x3002;</span><br><span class="line"></span><br><span class="line">@xiaozengXW 2020-08-02 21:19&#x56DE;&#x590D;&#x4E3E;&#x62A5; &#x6211;&#x4E0D;&#x662F;&#x6210;&#x5FC3;&#x548C;&#x4F60;&#x6495;&#x903C;&#xFF0C;&#x6211;&#x5C31;&#x662F;&#x89C9;&#x5F97;&#x4F60;&#x95F2;&#x7684;&#x86CB;&#x75BC;&#x3002;</span><br><span class="line"></span><br><span class="line">2:</span><br><span class="line">@Bjarne&#xB7;Stroustrup</span><br><span class="line"></span><br><span class="line">&#x65E0;&#x56FE;&#x4E0D;&#x771F;&#x76F8;</span><br><span class="line">&#x56E2;&#x961F;&#x8BA8;&#x8BBA;&#x533A;&#x4F60;&#x771F;&#x4EE5;&#x4E3A;&#x7BA1;&#x7406;&#x7BA1;&#x3002;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/696mw1rc.png" alt="1"><br><figure class="highlight plain"><figcaption><span>&#x56E2;&#x961F;&#x8BA8;&#x8BBA;&#x533A;&#x60A8;&#x5C31;&#x53EF;&#x4EE5;&#x4E3A;&#x6240;&#x6B32;&#x4E3A;&#x5417;?```</span></figcaption><table><tr><td class="code"><pre><span class="line">![2](https://cdn.luogu.com.cn/upload/image_hosting/8gmp7qac.png)</span><br></pre></td></tr></table></figure><br>2:@Bjarne&#xB7;Stroustrup &#x597D;&#x597D;&#x597D;&#x4F60;&#x725B;&#x903C;&#x4F60;&#x4E3E;&#x62A5;&#x6700;&#x597D;&#x660E;&#x5929;&#x63A5;&#x7BA1;&#x6D1B;&#x8C37;&#x5C01;&#x6211;&#x53F7;<br>2:@Bjarne&#xB7;Stroustrup /qiang/qiang/qiang/qiang/qiang</p>
-<p>/ts&#x6700;&#x597D;&#x628A;&#x6211;IPban&#x4E86;/cy<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line"># 2.&#x4E3E;&#x62A5;</span><br><span class="line"></span><br><span class="line">&#x63A5;&#x4E0B;&#x6765;&#x7531;&#x8C37;&#x6C11;&#x4EEC;&#x5F00;&#x59CB;&#x4E3E;&#x62A5;@woshidashabi66666</span><br></pre></td></tr></table></figure><br>mcyl35:<br>@woshidashabi66666</p>
-<p>&#x7528;&#x6237;&#x540D;&#x4E0D;&#x548C;&#x8C10;</p>
-<p>&#x8FB1;&#x9A82;&#x7BA1;&#x7406;&#x5458;&#x548C;&#x7528;&#x6237;&#xFF1A;<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">![3](https://cdn.luogu.com.cn/upload/image_hosting/bzsj1jq0.png)</span><br></pre></td></tr></table></figure><br>@chen_zhe<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">```</span><br><span class="line">Firestar:</span><br><span class="line">&#x6211;&#x4E3E;&#x62A5;@woshidashabi66666</span><br><span class="line"></span><br><span class="line">1&#x3001;&#x4ED6;&#x9A82;&#x7AD9;&#x957F;</span><br><span class="line"></span><br><span class="line">2&#x3001;&#x7528;&#x6237;&#x540D;&#x654F;&#x611F;</span><br><span class="line"></span><br><span class="line">3&#x3001;&#x90A3;&#x5565;&#x8FD9;&#x5BB6;&#x4F19;&#x9A82;&#x6211;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;&#xFF1A;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/bzsj1jq0.png" alt="4"><br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x4E3E;&#x62A5;&#x7528;&#x6237;@woshidashabi66666</span><br><span class="line"></span><br><span class="line">&#x539F;&#x56E0;&#xFF1A;&#x8FB1;&#x9A82;&#x7BA1;&#x7406;&#x3001;&#x7528;&#x6237;&#x540D;&#x4E0D;&#x548C;&#x8C10;&#x3001;&#x8FB1;&#x9A82;&#x5176;&#x4ED6;&#x7528;&#x6237;</span><br><span class="line"></span><br><span class="line">&#x8BC1;&#x636E;&#xFF1A;</span><br></pre></td></tr></table></figure><br><img src="https://cdn.luogu.com.cn/upload/image_hosting/9j0p9qwg.png" alt="5"></p>
-<p>&#x4E8E;&#x662F;&#x2026;&#x5F15;&#x8D77;&#x4E86;&#x4E00;&#x5927;&#x6CE2;&#x89C2;&#x7334;&#x4EBA;&#x7684;&#x6CE8;&#x610F;&#xFF1A;</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">YCE3216037:@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#xFF01;</span><br><span class="line">Little_Hamster:@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#xFF01;</span><br><span class="line">LFC_thomaszjl:@woshidashabi66666 &#x51FA;&#x6765;&#x8D70;&#x8D70;</span><br></pre></td></tr></table></figure>
-<p>(&#x8BB0;&#x8005;&#xFF1A;@woshidashabi66666 &#x51FA;&#x6765;&#x722A;&#x5DF4;&#x4E24;&#x6B65;)</p>
-]]></content>
-      <categories>
-        <category>Reports</category>
-        <category>Luogu</category>
-      </categories>
-      <tags>
-        <tag>《陶片放逐》报道</tag>
-      </tags>
+    <title>本团入团题1</title>
+    <url>/2020/08/03/%E6%9C%AC%E5%9B%A2%E5%85%A5%E5%9B%A2%E9%A2%981/</url>
+    <content><![CDATA[]]></content>
   </entry>
   <entry>
     <title>华为Matebook13测评</title>
@@ -281,17 +294,12 @@
       </tags>
   </entry>
   <entry>
-    <title>本团入团题1</title>
-    <url>/2020/08/03/%E6%9C%AC%E5%9B%A2%E5%85%A5%E5%9B%A2%E9%A2%981/</url>
-    <content><![CDATA[]]></content>
-  </entry>
-  <entry>
     <title>网站访问人数及数量</title>
     <url>/2020/07/30/%E7%BD%91%E7%AB%99%E8%AE%BF%E9%97%AE%E4%BA%BA%E6%95%B0%E5%8F%8A%E6%95%B0%E9%87%8F/</url>
-    <content><![CDATA[<div id="echarts9556" style="width: 81%;height: 400px;margin: 0 auto"></div>
+    <content><![CDATA[<div id="echarts9359" style="width: 81%;height: 400px;margin: 0 auto"></div>
 <script type="text/javascript">
         // 基于准备好的dom，初始化echarts实例
-        var myChart = echarts.init(document.getElementById('echarts9556'));
+        var myChart = echarts.init(document.getElementById('echarts9359'));
 
         // 指定图表的配置项和数据
         var option = {
@@ -382,6 +390,33 @@
 <p>lmcute 2020-08-02 11:45:31<br>&#x64A4;&#x9500; <strong>&#x81EA;&#x7531;&#x53D1;&#x8A00;</strong> &#x6743;&#x9650;<br><strong>&#x53D1;&#x5E03;&#x65E0;&#x610F;&#x4E49;&#x5185;&#x5BB9;&#x3002;</strong></p>
 </blockquote>
 <p>&#x6076;&#x5FC3;&#x5C0F;&#x8BF4;&#x5B9E;&#x5728;&#x53EF;&#x803B;</p>
+]]></content>
+      <categories>
+        <category>Reports</category>
+        <category>Luogu</category>
+      </categories>
+      <tags>
+        <tag>《陶片放逐》报道</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>关于2020年8月2日陶片放逐用户@Imcute 在洛谷日报下发布的低俗小说（洛谷《陶片放逐》报第六期）</title>
+    <url>/2020/08/02/%E5%85%B3%E4%BA%8E2020%E5%B9%B48%E6%9C%882%E6%97%A5%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E7%94%A8%E6%88%B7-Imcute-%E5%9C%A8%E6%B4%9B%E8%B0%B7%E6%97%A5%E6%8A%A5%E4%B8%8B%E5%8F%91%E5%B8%83%E7%9A%84%E4%BD%8E%E4%BF%97%E5%B0%8F%E8%AF%B4%EF%BC%88%E6%B4%9B%E8%B0%B7%E3%80%8A%E9%99%B6%E7%89%87%E6%94%BE%E9%80%90%E3%80%8B%E6%8A%A5%E7%AC%AC%E5%85%AD%E6%9C%9F%EF%BC%89/</url>
+    <content><![CDATA[<p>&#x8FD9;&#x6B21;&#x62A5;&#x9053;&#x5148;&#x7ED9;&#x5927;&#x5BB6;&#x5BA3;&#x5E03;&#x4E00;&#x4E2A;&#x574F;&#x6D88;&#x606F;&#xFF1A;</p>
+<h1 id="&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;"><a href="#&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;" class="headerlink" title="&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;"></a>&#x4ECA;&#x5929;&#x6CA1;&#x6709;&#x641E;&#x5230;&#x8FD9;&#x4E2A;&#x7528;&#x6237;&#x5237;&#x5C0F;&#x8BF4;&#x7684;&#x8BC1;&#x636E;&#x554A;&#x554A;&#x554A;&#x554A;&#x554A;</h1><p>&#x518D;&#x5BA3;&#x5E03;&#x4E00;&#x4E2A;&#x597D;&#x6D88;&#x606F;&#xFF1A;</p>
+<h1 id="&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;"><a href="#&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;" class="headerlink" title="&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;"></a>&#x4ECA;&#x5929;&#x5927;&#x6982;&#x7387;&#x53CC;&#x66F4;</h1><a id="more"></a>
+<p>&#x4ECA;&#x5929;&#x53EA;&#x80FD;&#x7ED9;&#x5927;&#x5BB6;&#x653E;&#x622A;&#x56FE;&#x4E86;&#xFF1A;&#xFF08;</p>
+<p><img src="https://cdn.luogu.com.cn/upload/image_hosting/0pljzgyx.png" alt></p>
+<p>&#x636E;&#x53EF;&#x9760;&#x6D88;&#x606F;&#xFF0C;&#x6B64;&#x4EBA;&#x590D;&#x5236;&#x7684;&#x4F4E;&#x4FD7;&#x5C0F;&#x8BF4;&#x6765;&#x6E90;&#x4E8E;&#xFF1A;</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">&#x66F4;&#x65B0;&#x6700;&#x5FEB;&#x7684;(&#x65B0;&#x516B;&#x58F9;&#x4E2D;&#x6587;&#x7F51; (&#x43C;.X&#x2467;&#x2460;zW.c&#x14D;)m</span><br></pre></td></tr></table></figure>
+<p>&#x554A;&#x8FD9;</p>
+<p>&#x8FD8;&#x7528;&#x706B;&#x661F;&#x6587;</p>
+<p>&#x4E00;&#x770B;&#x5C31;&#x4E0D;&#x662F;&#x4EC0;&#x4E48;&#x6B63;&#x89C4;&#x7F51;&#x7AD9;</p>
+<p>&#x8BB0;&#x8005;&#x5192;&#x6B7B;&#x53BB;&#x4E0A;&#x4E86;&#x8FD9;&#x4E2A;&#x7F51;</p>
+<p>&#x603B;&#x7ED3;&#x5982;&#x4E0B;&#xFF1A;1.&#x5C0F;&#x8BF4;&#x5185;&#x5BB9;&#x4F4E;&#x4FD7; 2.&#x6709;&#x5F15;&#x8BF1;&#x4E0B;&#x8F7D;</p>
+<p>&#x5404;&#x4F4D;&#x8FD8;&#x662F;&#x522B;&#x53BB;&#x4E86;&#xFF08;</p>
+<p><strong>&#x8A00;&#x5F52;&#x6B63;&#x4F20;&#xFF0C;</strong><del>&#x521A;&#x624D;&#x8BB2;&#x5230;&#x54EA;&#x4E86;&#xFF1F;</del></p>
+<p>&#x8FD9;&#x6B21;&#x4E8B;&#x4EF6;&#x5F15;&#x53D1;&#x4E86;&#x5927;&#x91CF;&#x56E2;&#x961F;&#x89C2;&#x5149;&#x56E2;&#x53BB;&#x53C2;&#x89C2;<del>&#x4E5F;&#x5305;&#x62EC;&#x8BB0;&#x8005;&#x7684;<img src="https://www.luogu.com.cn/team/15848" alt="&#x89C2;&#x5149;&#x56E2;1"><img src="https://www.luogu.com.cn/team/14341" alt="&#x89C2;&#x5149;&#x56E2;2"></del></p>
 ]]></content>
       <categories>
         <category>Reports</category>
